@@ -36,7 +36,7 @@ OS Support:
 - Windows (XP, Vista, 7)
 - Linux (Ubuntu 10.04)
 - MacOS (in theory)
-- 
+ 
 ### Windows:
 Run `win_config.bat`. That will create MSVS project.
 
