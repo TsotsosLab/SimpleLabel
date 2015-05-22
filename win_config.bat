@@ -1,0 +1,1 @@
+qmake -r -tp vc SimpleLabel.pro

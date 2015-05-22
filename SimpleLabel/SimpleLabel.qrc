@@ -1,0 +1,6 @@
+<RCC>
+    <qresource>
+      <file alias="cursor_crosshair.bmp">Resources/cursor_crosshair.bmp</file>
+      <file alias="cursor_crosshair_mask.bmp">Resources/cursor_crosshair_mask.bmp</file>
+    </qresource>
+</RCC>
