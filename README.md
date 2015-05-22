@@ -14,10 +14,9 @@ Attentive Vision (http://www.cse.yorku.ca/LAAV/home/) headed by John K. Tsotsos.
 
 ## Installation:
 
-Windows binaries can be obtained from:
-https://github.com/TsotsosLab/SimpleLabel/releases/download/0.8.0/SimpleLabel-0.8.0.zip
+Windows binaries can be obtained from [here](https://github.com/TsotsosLab/SimpleLabel/releases/download/0.8.0/SimpleLabel-0.8.0.zip).
 
-Unzip the file and run `SimpleLabel.exe`. Note that it requires [Microsoft Visual C++ 2010 SP1 Redistributable Package (x86)](http://www.microsoft.com/download/en/details.aspx?id=8328) to be installed.
+Extract the archive and run `SimpleLabel.exe`. Note that it requires [Microsoft Visual C++ 2010 SP1 Redistributable Package (x86)](http://www.microsoft.com/download/en/details.aspx?id=8328) to be installed.
 
 We do not offer pre-built Linux and Mac binaries. In case you use one of those platforms please build from source.
 
