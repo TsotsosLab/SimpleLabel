@@ -13,11 +13,30 @@ Attentive Vision (http://www.cse.yorku.ca/LAAV/home/) headed by John K. Tsotsos.
 - John K. Tsotsos <tsotsos@cse.yorku.ca>
 
 ## Installation:
+
 Windows binaries can be obtained from:
 https://github.com/TsotsosLab/SimpleLabel/releases/download/0.8.0/SimpleLabel-0.8.0.zip
 
 Unzip the file and run `SimpleLabel.exe`. Note that it requires [Microsoft Visual C++ 2010 SP1 Redistributable Package (x86)](http://www.microsoft.com/download/en/details.aspx?id=8328) to be installed.
 
+We do not offer pre-built Linux and Mac binaries. In case you use one of those platforms please build from source.
+
+## Development
+
+Development is mainly done on Windows 7, MS VisualStudio 2010. Major releases are tested on Ubuntu.
+
+### Requirements
+
+Software:
+- Qt4.*
+- OpenCV2.4.2
+- [Microsoft Visual C++ 2010 SP1 Redistributable Package (x86)](http://www.microsoft.com/download/en/details.aspx?id=8328)
+
+OS Support:
+- Windows (XP, Vista, 7)
+- Linux (Ubuntu 10.04)
+- MacOS (in theory)
+- 
 ### Windows:
 Run `win_config.bat`. That will create MSVS project.
 
@@ -36,19 +55,3 @@ $ qmake SimpleLabel.pro
 $ make
 $ ./SimpleLabel
 ```
-
-## Development
-
-Development is mainly done on Windows 7, MS VisualStudio 2010. Major releases are tested on Ubuntu.
-
-### Requirements
-
-Software:
-- Qt4.*
-- OpenCV2.4.2
-- [Microsoft Visual C++ 2010 SP1 Redistributable Package (x86)](http://www.microsoft.com/download/en/details.aspx?id=8328)
-
-OS Support:
-- Windows (XP, Vista, 7)
-- Linux (Ubuntu 10.04)
-- MacOS (in theory)
