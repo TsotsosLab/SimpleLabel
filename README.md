@@ -6,7 +6,7 @@ intuitive user interface. At the moment SimpleLabel supports only rectangular re
 and uses linear interpolation to create intermediate marked regions.
 
 Developed  by Eugene Simine at York University, Toronto in Laboratory for Active and 
-Attentive Vision (http://www.cse.yorku.ca/LAAV/home/) headed by John K. Tsotsos.
+Attentive Vision (http://jtl.lassonde.yorku.ca) headed by John K. Tsotsos.
 
 ## Contact:
 - Eugene Simine <eugene@cse.yorku.ca> or
